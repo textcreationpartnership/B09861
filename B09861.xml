@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons why Sir John Champante's two last accompts between him and the late undertakers of the Irish revenue stated by Mr. Roberts should not be open'd, drawn out of the proofs of the cause</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09861</idno><idno type="EEBO-CITATION">62369631</idno>
+  <idno type="VID">188110</idno>
+  <idno type="EEBO-PROQUEST">2240883807</idno>
+  
+            <idno type="STC">Wing R586A</idno>
+            <idno type="STC">ESTC R182522</idno>
+            <idno type="OCLC">62369631</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09861)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188110)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2855:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons why Sir John Champante's two last accompts between him and the late undertakers of the Irish revenue stated by Mr. Roberts should not be open'd, drawn out of the proofs of the cause</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Champante, John, --  Sir, d. 1708.</term>
+               <term type="corporate_name">Ireland. --  Office of the Revenue Commissioners --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1690 --  Sources.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century --  Sources.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188110:1"/>
+            <head>REASONS Why Sir <hi>John Champante</hi>'s two last Accompts, between him and the late Undertakers of the <hi>Irish</hi> Revenue, Stated by Mr. <hi>Roberts,</hi> should not be open'd. Drawn out of the Proofs of the Cause.</head>
+            <p>
+               <note place="margin">Mr. <hi>Roberts</hi> Authorized to state Ac<g ref="char:EOLhyphen"/>compts.</note>
+               <seg rend="decorInit">M</seg>R. <hi>Roberts,</hi> who was the Representative of Mr. <hi>George Dashwood,</hi> one of the Undertakers, with the Assistance of the Secretary, and two Clerks of the Undertaking, made up, and closed the said Ac<g ref="char:EOLhyphen"/>compts, by Virtue of an Authority from Sir <hi>James Hayes, John Stepney,</hi> and <hi>John Hays,</hi> Esquires, the only Persons then acting for the Undertaking, and who declared, when they gave <hi>Roberts</hi> the said Authority, that they had full Power from the rest of the Partners and Undertakers, to trans<g ref="char:EOLhyphen"/>act and finish all the concerns thereof. And so my Lord <hi>Ranelagh,</hi> by his Letter of 22d of <hi>May,</hi> 1677. owns that their Signing would bind all the rest; which he confesses also in his Answer to Sir <hi>John Champante</hi>'s Bill in <hi>Ireland,</hi> as by the Decree in <hi>Ireland</hi> may appear.</p>
+            <p>
+               <note place="margin">His Method, Care and In<g ref="char:EOLhyphen"/>dusty in the same.</note>In the making up, and stating these Accompts, made up in the Method the Authority prescribes, Mr. <hi>Roberts,</hi> with the Assistance of the said Secretary and Clerks, spent above two Months exa<g ref="char:EOLhyphen"/>mining, and comparing them with Sir <hi>John Champante</hi>'s Day-books of Receipts and Payments, and with his Leidgers, and the other Books of the Treasury Office, and with the Weekly and Quarterly Accompts, which Sir <hi>John Champante</hi> constantly gave the Undertakers, and with the Entries of the Cheque and Controul, which Officers ap<g ref="char:EOLhyphen"/>pointed by the Undertakers, made of his daily Receipts and Payments; and likewise, with the Entries of the Clerk of the <hi>Pells,</hi> of the Auditor-General, and of the Chamberlains of the <hi>Exchequer,</hi> and with the Accompts of the Collectors of the Un<g ref="char:EOLhyphen"/>dertaking, and of the General Farmers, and with all the other Books and Papers, that might detect the least Error in the said Accompts, or Surcharge Sir <hi>John</hi> with any Sums omitted, which the said Mr. <hi>Roberts</hi> very industriously endeavour'd. And also with the Warrants,<note place="margin">Vouchers de<g ref="char:EOLhyphen"/>livered up.</note> Orders, and Debentures, and other Vouchers maintaining the said Accompts which Sir <hi>John</hi> then deli<g ref="char:EOLhyphen"/>ver'd up, which have been since made use of by the Undertakers, to justify their Accompts with the King, and accordingly lodg'd with the Auditor General, except those which relate to the Charges attending the management of the Undertaking, which were lately in the Custody of <hi>John Hays,</hi> Brother to Sir <hi>James Hays.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Roberts</hi> made up the former Accompts.</note>The said Mr. <hi>Roberts</hi> was the Person relied on by the Undertakers, to make up the two former Accompts, which are signed, and passed by the Undertakers; and his Care and Industry in the Service of the Undertakers was so well known, and approved of, that long after the close of the said two last Accompts, in the year 1678. the Lord <hi>Ranelagh,</hi> Sir <hi>James Hayes, George Dash<g ref="char:EOLhyphen"/>wood,</hi> and <hi>John Bence,</hi> Esq; did by several Letters desire Mr. <hi>Roberts</hi> to take upon him the Management of the concerns of their late Undertaking; and particularly by a Letter of the 16th of <hi>July,</hi> 1678. write to Sir <hi>John Champante,</hi> to engage him the said Mr. <hi>Roberts</hi> thereunto.</p>
+            <p>At the Rehearing of Sir <hi>John Champante</hi>'s Cause in the Court of <hi>Exchequer</hi> in <hi>Ireland,</hi> the Councel of the Earl of <hi>Ranelagh,</hi> and Mr. <hi>Stepney,</hi>
+               <note place="margin">The Ac<g ref="char:EOLhyphen"/>compts exa<g ref="char:EOLhyphen"/>mined by the Court of <hi>Exchequer</hi> in <hi>Ireland,</hi> and Decreed con<g ref="char:EOLhyphen"/>clusive.</note> with Two able Accomptants, appeared against the said Accompts, and were Armed with all Sir <hi>John Champante</hi>'s Books and Papers, which by Order of the said Court were put into their Hands for several Months, and had access to all the Offices of <hi>Cheque</hi> in the said Kingdom, but were not able in the least to falsify the said Accompts, all their objections being fully answered to the satisfaction of that Court, who after Six Days spent in the examination of the said Accompts, and hearing the Proofs, Decreed the said Two Accompts final and conclusive; Declaring, That they were Accompts, not only stated by Mr. <hi>Roberts,</hi> but also by the Court of <hi>Exchequer.</hi> At which re-hearing, it appeared fully in the Depositions taken, and was also proved, <hi>Viva voce,</hi> in Court, That Sir <hi>John Champante</hi> had deliver'd up all his Vouchers, and that they were in the possession of the Undertakers.</p>
+            <p>
+               <note place="margin">Decretal Or<g ref="char:EOLhyphen"/>der in the <hi>Ex<g ref="char:EOLhyphen"/>chequer</hi> here.</note>At the hearing of the Cause in the Court of <hi>Exchequer</hi> in <hi>England,</hi> in <hi>June</hi> 1688. which took up Eight days, the Court, by the Proofs, therein received full satisfaction as to the method, care and industry of the said Mr. <hi>Roberts,</hi> in stating of the said Accompts, and of the justness and exactness of them; and that Sir <hi>John Champante</hi>'s Vouchers were all delivered up in <hi>Ireland</hi> when <hi>Roberts</hi> stated his Accompts, and that he was under an utter Impossibility to come to a new Accompt; however out of tenderness to the now Appellants, and the other Defendants, it was referred to the Two Auditors of the Imprest, in Case the Defendants had any material Objections to offer against any of the particulars in the said Accompts, to inspect and examine the same, and whether the said Accompts were made up and stated in the method of the Two former, and wherein they did agree or differ from the same; and Sir <hi>John Champante</hi> was decreed to be examined on Interrogatories. It is now above Eleven Months since the said Decree was made, and yet the Appellants have not made any Objections, nor Exhibited any In<g ref="char:EOLhyphen"/>terrogatories.</p>
+            <p>
+               <note place="margin">Both Courts satisfied as to the Memoran<g ref="char:EOLhyphen"/>dum of 12295 <hi>l.</hi>
+               </note>And as to the Entry of the Memorandum relating to 12295 <hi>l.</hi> which occasioned the transcribing of some Leaves therein, with<g ref="char:EOLhyphen"/>out the least alteration of any Article or Figure, it fully appear'd to the Courts of <hi>Exchequer,</hi> both of <hi>England</hi> and <hi>Ireland,</hi> That it was a just and fair thing, and solely to the advantage of the Undertakers, tho they did endeavour to charge Sir <hi>John Champante</hi> with the contrary.</p>
+            <p>
+               <note place="margin">Above 12. years since Ac<g ref="char:EOLhyphen"/>compts, stated and no Error detected.</note>It's more than Twelve years since the said Accompts were first stated, and the Undertakers have ever since been in Pos<g ref="char:EOLhyphen"/>session of all the Books and Papers that could any ways assist them in the said Accompts, which they have been never able, notwithstanding their utmost endeavours, in the least, to do: So that in the consideration of the matters aforesaid, it is humbly hoped that the said Accompts may be taken and remain as stated and conclusive, and that Sir <hi>John Champante</hi> may not be put upon the Impossibility of coming to a new Accompt, his Vouchers being delivered up, and his now Accompts having passed such strict examination.</p>
+            <pb facs="tcp:188110:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
